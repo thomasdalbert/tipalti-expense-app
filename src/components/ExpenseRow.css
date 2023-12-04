@@ -1,0 +1,11 @@
+.expense-row {
+  border-bottom: 1px solid #ccc;
+}
+
+.expense-row-cell {
+  padding: 10px;
+}
+
+.expense-row:hover {
+  background-color: #eee;
+}
